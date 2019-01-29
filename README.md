@@ -1,5 +1,4 @@
 # metro
-RULES :
 
 The goal is to pass in one day by all the metro stations in Paris.
 You have to go at least once (though not necessarily one) by each of the Paris metro stations intramural, during a day;
